@@ -116,8 +116,3 @@ You can log in instantly using the demo credentials below:
 
 ⭐ Star this repo and share it with friends who love coffee and pie! ☕🥧
 
-
----
-
-Would you like me to add a **custom animated banner** (like a “Welcome to Whipped Robbins 🍰” banner image) for the top of your README? I can generate one in your color theme (pink gradient + sweets aesthetic).
-```
