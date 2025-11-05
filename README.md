@@ -68,7 +68,7 @@ Users can **register**, **log in**, **place an order**, and **track delivery** i
 1. Clone this repository:
    ```bash
    git clone https://github.com/gregdotdev/whipped-robbins-orderapp.git
-````
+   ```
 
 2. Move into the project folder:
 
