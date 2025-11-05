@@ -106,7 +106,7 @@ You can log in instantly using the demo credentials below:
 
 ## 👩‍💻 Author
 
-**Developed by:** [Your Name](https://github.com/gregdotdev)
+**Developed by:** [Gregorio](https://github.com/gregdotdev)
 **Project:** *Whipped Robbins App*
 **License:** [MIT](LICENSE)
 
