@@ -4,7 +4,6 @@ You can copy-paste this directly into your `README.md` file.
 
 ---
 
-````markdown
 # 🍰 Whipped Robbins App  
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)](#)
@@ -120,7 +119,6 @@ You can log in instantly using the demo credentials below:
 
 ⭐ Star this repo and share it with friends who love coffee and pie! ☕🥧
 
-```
 
 ---
 
